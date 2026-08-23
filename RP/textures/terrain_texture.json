@@ -1,0 +1,45 @@
+{
+    "resource_pack_name": "resource_packs",
+    "texture_name": "atlas.terrain",
+    "texture_data": {
+        "mx_octogonal:oak_fence": {
+            "textures": "textures/blocks/planks_oak"
+        },
+        "mx_octogonal:spruce_fence": {
+            "textures": "textures/blocks/planks_spruce"
+        },
+        "mx_octogonal:birch_fence": {
+            "textures": "textures/blocks/planks_birch"
+        },
+        "mx_octogonal:dark_oak_fence": {
+            "textures": "textures/blocks/planks_big_oak"
+        },
+        "mx_octogonal:acacia_fence": {
+            "textures": "textures/blocks/planks_acacia"
+        },
+        "mx_octogonal:jungle_fence": {
+            "textures": "textures/blocks/planks_jungle"
+        },
+        "mx_octogonal:mangrove_fence": {
+            "textures": "textures/blocks/mangrove_planks"
+        },
+        "mx_octogonal:pale_oak_fence": {
+            "textures": "textures/blocks/pale_oak_planks"
+        },
+        "mx_octogonal:crimson_fence": {
+            "textures": "textures/blocks/huge_fungus/crimson_planks"
+        },
+        "mx_octogonal:warped_fence": {
+            "textures": "textures/blocks/huge_fungus/warped_planks"
+        },
+        "mx_octogonal:cherry_fence": {
+            "textures": "textures/blocks/cherry_planks"
+        },
+        "mx_octogonal:bamboo_fence": {
+            "textures": "textures/blocks/bamboo_fence"
+        },
+        "mx_octogonal:poplar_fence": {
+            "textures": "textures/blocks/poplar_planks"
+        }
+    }
+}

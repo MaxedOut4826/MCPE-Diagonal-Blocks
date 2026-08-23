@@ -1,0 +1,9 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jeanmajid/MCPE-Tool/refs/heads/main/public/mcConfigSchema.json",
+    "name": "MCPE-Diagonal-Blocks",
+    "description": "Adds diagonal connections for some blocks like fences & walls.",
+    "modules": [
+        "npm"
+    ],
+    "id": "tvwetnwm4mqmt61eyl3"
+}

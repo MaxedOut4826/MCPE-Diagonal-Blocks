@@ -1,0 +1,14 @@
+export const blocksOverrideRegistry = [
+    "minecraft:oak_fence",
+    "minecraft:spruce_fence",
+    "minecraft:birch_fence",
+    "minecraft:dark_oak_fence",
+    "minecraft:pale_oak_fence",
+    "minecraft:mangrove_fence",
+    "minecraft:jungle_fence",
+    "minecraft:acacia_fence",
+    "minecraft:warped_fence",
+    "minecraft:crimson_fence",
+    "minecraft:bamboo_fence",
+    "minecraft:cherry_fence",
+];
