@@ -57,14 +57,14 @@
             },
             "minecraft:material_instances": {
                 "*": {
-                    "texture": "mx_octogonal:mangrove_fence"
+                    "texture": "mx_octogonal:cherry_fence"
                 }
             },
             "minecraft:item_visual": {
                 "geometry": "geometry.fence_held_item",
                 "material_instances": {
                     "*": {
-                        "texture": "mx_octogonal:mangrove_fence"
+                        "texture": "mx_octogonal:cherry_fence"
                     }
                 }
             },
